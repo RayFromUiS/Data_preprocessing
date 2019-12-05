@@ -1,1 +1,9 @@
 This is a project for applying pandas to data preprocessing
+
+data:xls,csv data from open source
+env:anaconda;
+interperter:python3.7
+preprocessed data has specified column names
+
+
+
