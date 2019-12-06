@@ -1,5 +1,6 @@
 This is a project for applying pandas to data preprocessing
 
+data scrapy: use seleninum and beautifulsoup to drive the browser and grab data
 data:xls,csv data from open source
 env:anaconda;
 interperter:python3.7
